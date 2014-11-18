@@ -1,4 +1,4 @@
 TheFirstOne
 ===========
 
-My first repo
+My first repo. This is for practice only.
